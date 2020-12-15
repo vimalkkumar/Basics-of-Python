@@ -1,12 +1,11 @@
-# import turtle
-# import time
-#
-# noinspection PyUnreslovedReferences
-# turtle.forward(150)
-# turtle.right(240)
-# turtle.forward(100)
-#
-# time.sleep(5)
+import turtle
+import time
+
+noinspection PyUnreslovedReferences
+turtle.forward(150)
+turtle.right(240)
+turtle.forward(100)
+time.sleep(5)
 
 # import turtle
 #
